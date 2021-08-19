@@ -1,0 +1,33 @@
+body {
+    background-color: aquamarine;
+}
+
+ul {
+    text-align: center;
+}
+
+ul li {
+    display: inline;
+}
+
+.image{
+    width: 130px;
+    float: left;
+    height: 130px;
+}
+
+.text{
+
+    color:black;
+}
+
+.links {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    margin: 15px;
+}
+
+.links:hover {
+    text-decoration: underline;
+}
